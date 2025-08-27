@@ -1,0 +1,13 @@
+[project]
+name = "blankproject"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "datefinder>=0.7.3",
+    "pandas>=2.3.2",
+    "pandas-stubs==2.3.0.250703",
+    "pre-commit>=4.3.0",
+    "requests>=2.32.5",
+    "urllib3>=2.5.0",
+]
